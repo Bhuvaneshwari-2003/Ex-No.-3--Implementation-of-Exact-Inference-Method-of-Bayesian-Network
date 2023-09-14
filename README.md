@@ -35,7 +35,7 @@ evidence={'JohnCalls':1,'MarryCalls':0}
 query_variable='Burglary'
 result=inference.query(variables=[query_variable],evidence=evidence)
 print(result)
-```
+``
 
 ## Output :
 ![image](https://github.com/Bhuvaneshwari-2003/Ex-No.-3--Implementation-of-Exact-Inference-Method-of-Bayesian-Network/assets/94828604/1f1bdb73-95b6-483f-89da-5b009b477d56)
