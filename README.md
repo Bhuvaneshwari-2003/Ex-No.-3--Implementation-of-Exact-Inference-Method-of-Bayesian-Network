@@ -35,7 +35,7 @@ evidence={'JohnCalls':1,'MarryCalls':0}
 query_variable='Burglary'
 result=inference.query(variables=[query_variable],evidence=evidence)
 print(result)
-``
+```
 
 ## Output :
 
